@@ -1,26 +1,32 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+:root {
+    scroll-behavior: smooth;
+}
 
-*{
-    margin: 0;
-    padding: 0;
+#carouselOffers {
+    min-height: 500px;
 }
-nav {
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-    padding-top: 30px;
-  }
-.nav-links a {
-    text-decoration: none;
-    font-family: 'Poppins', sans-serif;
-    color: black;
+
+#carouselOffers img {
+    max-height: 450px;
 }
-.nav-links a:hover {
-    color: rgb(123, 181, 124);
+
+.intro {
+    max-width: 400px;
+    margin-top: 150px;
+    text-align: center;
 }
-.logo img{
-    width: 90px;
+.card {
+    height: 100%;
 }
-.shop-button{
-    text-decoration: none;
+
+.alert {
+    position: fixed;
+    top: 50px; 
+    width: 50%;
+    left: 25%;
+    z-index: 1051;
+}
+
+.btn {
+    padding: 0.75rem 0.7rem;
 }
