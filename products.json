@@ -2,7 +2,7 @@
     {
         "id": "1",
         "title": "Baby Yoda",
-        "image": "img/products/baby-yoda.svg",
+        "image": "img/products/backpack-1.png",
         "additionalImages": [
             "https://placekitten.com/200/139",
             "https://placekitten.com/200/139?2"
@@ -13,7 +13,7 @@
     {
         "id": "2",
         "title": "Banana",
-        "image": "img/products/banana.svg",
+        "image": "img/products/backpack-2.jpg",
         "additionalImages": [
             "https://placekitten.com/200/139",
             "https://placekitten.com/200/139?2"
@@ -24,7 +24,7 @@
     {
         "id": "3",
         "title": "Girl",
-        "image": "img/products/girl.svg",
+        "image": "img/products/backpack-3.jpg",
         "additionalImages": [
             "https://placekitten.com/201/139",
             "https://placekitten.com/201/139?2"
@@ -35,7 +35,7 @@
     {
         "id": "4",
         "title": "Viking",
-        "image": "img/products/viking.svg",
+        "image": "img/products/backpack-5.jpg",
         "additionalImages": [
             "https://placekitten.com/203/139",
             "https://placekitten.com/204/139?2"
@@ -43,4 +43,5 @@
         "description": "Viking sticker",
         "price": 34.99
     }
+    
 ]
