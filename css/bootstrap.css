@@ -1,3 +1,6 @@
+footer{
+  display: block;
+}
 .intro {
     text-align: center;
 }
@@ -31,4 +34,37 @@ nav {
   }
   .head {
       background-color: rgba(46, 42, 42, 0.096);
+  }
+  .footer_column {
+    text-align: center;
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+  }
+  .footer-text {
+    margin: 20px 5px;
+    display: flex;
+    flex-direction: column;
+    color: rgba(68, 86, 101, 0.9);
+    font-weight: bold;
+    font-size: 15px;
+    text-align: center;
+    text-decoration: none;
+  }
+  .footer_column a:hover {
+    color: #999;
+  }
+  .menu_link {
+    text-align: center;
+    background-size: cover;
+    background-position: inherit;
+    max-height: 120px;
+    min-width: auto;
+    padding: 50px 10px 10px 10px;
+  }
+  
+  .menu_after_link {
+    text-align: center;
+    margin: 20px;
+    font-size: 12px;
+    color: rgb(68, 86, 101);
   }
