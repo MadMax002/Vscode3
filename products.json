@@ -1,47 +1,90 @@
 [
     {
         "id": "1",
-        "title": "Baby Yoda",
+        "title": "Banana",
         "image": "img/products/backpack-1.jpg",
         "additionalImages": [
-            "https://placekitten.com/200/139",
-            "https://placekitten.com/200/139?2"
+            "https://streetwear.com.ua/img/p/full/407/8011407r.jpg",
+            "https://streetwear.com.ua/img/p/full/407/8011407b.jpg"
         ],
-        "description": "Baby Yoda sticker",
+        "description": "",
         "price": 49.99
     },
     {
         "id": "2",
-        "title": "Banana",
+        "title": "Winter",
         "image": "img/products/backpack-2.jpg",
         "additionalImages": [
-            "https://placekitten.com/200/139",
-            "https://placekitten.com/200/139?2"
+            "https://streetwear.com.ua/img/p/full/573/8011573b.jpg",
+            "https://streetwear.com.ua/img/p/full/573/8011573d.jpg"
         ],
-        "description": "Banana sticker",
+        "description": "",
         "price": 19.99
     },
     {
         "id": "3",
-        "title": "Girl",
+        "title": "Autumn",
         "image": "img/products/backpack-3.jpg",
         "additionalImages": [
-            "https://placekitten.com/201/139",
-            "https://placekitten.com/201/139?2"
+            "https://streetwear.com.ua/img/p/full/623/8011623r.jpg",
+            "https://streetwear.com.ua/img/p/full/623/8011623c.jpg"
         ],
-        "description": "Girl sticker",
+        "description": "",
         "price": 24.99
     },
     {
         "id": "4",
-        "title": "Viking",
+        "title": "City",
         "image": "img/products/backpack-5.jpg",
         "additionalImages": [
-            "https://placekitten.com/203/139",
-            "https://placekitten.com/204/139?2"
+            "https://streetwear.com.ua/img/p/full/648/8011648r.jpg",
+            "https://streetwear.com.ua/img/p/full/648/8011648b.jpg"
         ],
-        "description": "Viking sticker",
+        "description": "",
+        "price": 34.99
+    },
+    {
+        "id": "5",
+        "title": "Gard",
+        "image": "img/products/gard-1.jpg",
+        "additionalImages": [
+            "https://streetwear.com.ua/img/p/full/686/8011686r.jpg",
+            "https://streetwear.com.ua/img/p/full/686/8011686d.jpg"
+        ],
+        "description": "",
+        "price": 49.99
+    },
+    {
+        "id": "6",
+        "title": "Garder",
+        "image": "img/products/gard-2.jpg",
+        "additionalImages": [
+            "https://streetwear.com.ua/img/p/full/688/8011688d.jpg",
+            "https://streetwear.com.ua/img/p/full/688/8011688c.jpg"
+        ],
+        "description": "",
+        "price": 19.99
+    },
+    {
+        "id": "7",
+        "title": "Apple",
+        "image": "img/products/gard-3.jpg",
+        "additionalImages": [
+            "https://streetwear.com.ua/img/p/full/739/8011739d.jpg",
+            "https://streetwear.com.ua/img/p/full/739/8011739f.jpg"
+        ],
+        "description": "",
+        "price": 24.99
+    },
+    {
+        "id": "8",
+        "title": "Viking",
+        "image": "img/products/gard-4.jpg",
+        "additionalImages": [
+            "https://streetwear.com.ua/img/p/full/738/8011738e.jpg",
+            "https://streetwear.com.ua/img/p/full/738/8011738f.jpg"
+        ],
+        "description": "",
         "price": 34.99
     }
-    
 ]
