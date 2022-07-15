@@ -1,88 +1,70 @@
 [
     {
         "id": "1",
-        "title": "Banana",
-        "image": "img/products/backpack-1.jpg",
-        "additionalImages": [
-            "https://streetwear.com.ua/img/p/full/407/8011407r.jpg",
-            "https://streetwear.com.ua/img/p/full/407/8011407b.jpg"
-        ],
+        "title": "King Menu XXL",
+        "image": "img/products/kebab_2.jpg",
         "description": "",
         "price": 49.99
     },
     {
         "id": "2",
-        "title": "Winter",
-        "image": "img/products/backpack-2.jpg",
+        "title": "King Menu L",
+        "image": "img/products/kebab_2.jpg",
         "additionalImages": [
-            "https://streetwear.com.ua/img/p/full/573/8011573b.jpg",
-            "https://streetwear.com.ua/img/p/full/573/8011573d.jpg"
         ],
         "description": "",
         "price": 19.99
     },
     {
         "id": "3",
-        "title": "Autumn",
-        "image": "img/products/backpack-3.jpg",
+        "title": "Buttermilk",
+        "image": "img/products/airan.jpeg",
         "additionalImages": [
-            "https://streetwear.com.ua/img/p/full/623/8011623r.jpg",
-            "https://streetwear.com.ua/img/p/full/623/8011623c.jpg"
         ],
         "description": "",
         "price": 24.99
     },
     {
         "id": "4",
-        "title": "City",
-        "image": "img/products/backpack-5.jpg",
+        "title": "King Menu XL",
+        "image": "img/products/kebab_2.jpg",
         "additionalImages": [
-            "https://streetwear.com.ua/img/p/full/648/8011648r.jpg",
-            "https://streetwear.com.ua/img/p/full/648/8011648b.jpg"
         ],
         "description": "",
         "price": 34.99
     },
     {
         "id": "5",
-        "title": "Gard",
-        "image": "img/products/gard-1.jpg",
+        "title": "French fries",
+        "image": "img/products/free.jpg",
         "additionalImages": [
-            "https://streetwear.com.ua/img/p/full/686/8011686r.jpg",
-            "https://streetwear.com.ua/img/p/full/686/8011686d.jpg"
         ],
         "description": "",
         "price": 49.99
     },
     {
         "id": "6",
-        "title": "Garder",
-        "image": "img/products/gard-2.jpg",
+        "title": "Vegetarian",
+        "image": "img/products/vegan.jpg",
         "additionalImages": [
-            "https://streetwear.com.ua/img/p/full/688/8011688d.jpg",
-            "https://streetwear.com.ua/img/p/full/688/8011688c.jpg"
         ],
         "description": "",
         "price": 19.99
     },
     {
         "id": "7",
-        "title": "Apple",
-        "image": "img/products/gard-3.jpg",
+        "title": "Hot Menu",
+        "image": "img/products/kebab_3.jpg",
         "additionalImages": [
-            "https://streetwear.com.ua/img/p/full/739/8011739d.jpg",
-            "https://streetwear.com.ua/img/p/full/739/8011739f.jpg"
         ],
         "description": "",
         "price": 24.99
     },
     {
         "id": "8",
-        "title": "Viking",
-        "image": "img/products/gard-4.jpg",
+        "title": "Nuggets",
+        "image": "img/products/nagets.jpg",
         "additionalImages": [
-            "https://streetwear.com.ua/img/p/full/738/8011738e.jpg",
-            "https://streetwear.com.ua/img/p/full/738/8011738f.jpg"
         ],
         "description": "",
         "price": 34.99
